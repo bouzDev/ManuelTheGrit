@@ -12,10 +12,14 @@ At the moment I’m creating a IoT device called The Grit. The Grit is a smart c
 
 1. NodeMCU ESP8266 (You can use something else like a Arduino but pay attention to the ports and need of wifi)
    <img src="/images/nodemcu.png" alt="" width='300px'>
+
 2. A hotspot with 4g (I used my phone. Make sure to put it on 4G not 5G)
-   <img src="/images/nodemcu.png" alt="" width='300px'>
+
+<img src="https://i.blogs.es/560203/1366_2000/500_500.jpeg" alt="" width='300px'>
+
 3. A button switch
-   <img src="/images/button.jpeg" alt="" width='300px'>
+
+<img src="/images/button.jpeg" alt="" width='300px'>
 
 ## Create a zap ⚡️
 
